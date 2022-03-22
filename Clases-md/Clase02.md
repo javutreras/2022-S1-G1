@@ -71,5 +71,3 @@ style="border:0px;" allowfullscreen>
 - $m\left(\overline{BC}\right) = m\left(\overline{EF}\right)$
 
 *Importante.* El orden en que se mencionen los vértices del triángulo representa los vértices y lados correspondiente de la congruencia. No es lo mismo decir $\triangle ABC\cong \triangle DEF$ que decir $\triangle ABC\cong \triangle DFE$.
-
-**Definición.** Un *criterio de congruencia* es una lista de propiedades que, de cumplirse, aseguran que dos triángulos son congruentes, sin tener que verificar cada una de las igualdades de la definición.
