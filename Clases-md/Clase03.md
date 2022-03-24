@@ -83,17 +83,4 @@ Las siguientes conclusiones se deducen de los teoremas anteriores recordando que
 
 **Corolario.** En un triángulo equilátero todos los ángulos interiores son iguales.
 
-**Corolario.** Si en un triángulo todos los ángulos interiores son iguales entonces el triángulo equilátero.
-
----
-
-### Criterio LLL (lado-lado-lado)
-
-**Teorema.** Sean $\triangle ABC$ y $\triangle DEF$ dos triángulos. Si se tienen las siguientes igualdades:
-- $m\left(\overline{AB}\right)=m\left(\overline{DE}\right)$
-- $m\left(\overline{BC}\right)=m\left(\overline{EF}\right)$
-- $m\left(\overline{AC}\right)=m\left(\overline{DF}\right)$
-
-entonces se puede concluir que $\triangle ABC\cong\triangle DEF$.
-
-
+**Corolario.** Si en un triángulo todos los ángulos interiores son iguales entonces el triángulo es equilátero.
