@@ -9,3 +9,5 @@
 [Clase 04 - Criterios de congruencia de triángulos (cont.)](https://javutreras.github.io/2022-S1-G1/Clases/Clase04.html)
 
 [Clase 05 - Perpendicularidad y otros ángulos](https://javutreras.github.io/2022-S1-G1/Clases/Clase05.html)
+
+[Clase 06 - Ángulos y paralelas](https://javutreras.github.io/2022-S1-G1/Clases/Clase06.html)
