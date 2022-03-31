@@ -11,6 +11,8 @@ style="border:0px;" allowfullscreen>
 
 ---
 
+**Propiedad.** En un triángulo agudo toda altura pasa por dentro del triángulo.
+
 **Propiedad.** Un triángulo no puede tener dos ángulos interiores rectos.
 
 **Propiedad.** Un triángulo no puede tener dos ángulos interiores suplementarios.
