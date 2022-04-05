@@ -20,7 +20,7 @@ style="border:0px;" allowfullscreen>
 ---
 
 **Definición.**
-- Dos rectas se dicen *paralelas* si se no se intersectan.
+- Dos rectas se dicen *paralelas* si no se intersectan.
 - Esta definición se puede aplicar a segmentos y rayos, considerando sus prolongaciones a rectas.
 
 *Notación.* Si $R_1$ y $R_2$ son paralelas, se escribe $$R_1 \parallel R_2$$

@@ -11,3 +11,5 @@
 [Clase 05 - Perpendicularidad y otros ángulos](https://javutreras.github.io/2022-S1-G1/Clases/Clase05.html)
 
 [Clase 06 - Ángulos y paralelas](https://javutreras.github.io/2022-S1-G1/Clases/Clase06.html)
+
+[Clase 07 - Paralelas y ángulos](https://javutreras.github.io/2022-S1-G1/Clases/Clase07.html)
