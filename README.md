@@ -13,3 +13,5 @@
 [Clase 06 - Ángulos y paralelas](https://javutreras.github.io/2022-S1-G1/Clases/Clase06.html)
 
 [Clase 07 - Paralelas y ángulos](https://javutreras.github.io/2022-S1-G1/Clases/Clase07.html)
+
+[Clase 08 - Rectángulos](https://javutreras.github.io/2022-S1-G1/Clases/Clase08.html)

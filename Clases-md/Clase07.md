@@ -24,5 +24,3 @@ Observamos en esta situación que los ángulos internos de la figura que están 
 
 **Corolario.** La suma de los ángulos interiores de un polígono de $n$ lados es $180^\circ\cdot(n-2)$
 
-**Teorema.** La distancia entre dos rectas paralelas es constante.
-
