@@ -17,3 +17,5 @@
 [Clase 08 - Rectángulos](https://javutreras.github.io/2022-S1-G1/Clases/Clase08.html)
 
 [Clase 09 - Paralelógramos](https://javutreras.github.io/2022-S1-G1/Clases/Clase09.html)
+
+[Clase 10 - Paralelógramos (cont.) / Áreas](https://javutreras.github.io/2022-S1-G1/Clases/Clase10.html)
