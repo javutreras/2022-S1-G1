@@ -18,4 +18,6 @@
 
 [Clase 09 - Paralelógramos](https://javutreras.github.io/2022-S1-G1/Clases/Clase09.html)
 
-[Clase 10 - Paralelógramos (cont.) / Áreas](https://javutreras.github.io/2022-S1-G1/Clases/Clase10.html)
+[Clase 10 - Paralelógramos (cont.)](https://javutreras.github.io/2022-S1-G1/Clases/Clase10.html)
+
+[Clase 11 - Áreas](https://javutreras.github.io/2022-S1-G1/Clases/Clase11.html)
