@@ -21,3 +21,7 @@
 [Clase 10 - Paralelógramos (cont.)](https://javutreras.github.io/2022-S1-G1/Clases/Clase10.html)
 
 [Clase 11 - Áreas](https://javutreras.github.io/2022-S1-G1/Clases/Clase11.html)
+
+[Clase 12 - Teorema de Pitágoras](https://javutreras.github.io/2022-S1-G1/Clases/Clase12.html)
+
+[Clase 13 - Teorema de Euclides / Círculos](https://javutreras.github.io/2022-S1-G1/Clases/Clase13.html)
