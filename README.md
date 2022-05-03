@@ -24,4 +24,6 @@
 
 [Clase 12 - Teorema de Pitágoras](https://javutreras.github.io/2022-S1-G1/Clases/Clase12.html)
 
-[Clase 13 - Teorema de Euclides / Círculos](https://javutreras.github.io/2022-S1-G1/Clases/Clase13.html)
+[Clase 13 - Teorema de Euclides](https://javutreras.github.io/2022-S1-G1/Clases/Clase13.html)
+
+[Clase 14 - Círculos](https://javutreras.github.io/2022-S1-G1/Clases/Clase14.html)
