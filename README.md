@@ -29,3 +29,5 @@
 [Clase 14 - Círculos](https://javutreras.github.io/2022-S1-G1/Clases/Clase14.html)
 
 [Clase 15 - Círculos: propiedades básicas](https://javutreras.github.io/2022-S1-G1/Clases/Clase15.html)
+
+[Clase 16 - Arcos y ángulos / Semejanza](https://javutreras.github.io/2022-S1-G1/Clases/Clase16.html)
