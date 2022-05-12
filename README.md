@@ -30,4 +30,6 @@
 
 [Clase 15 - Círculos: propiedades básicas](https://javutreras.github.io/2022-S1-G1/Clases/Clase15.html)
 
-[Clase 16 - Arcos y ángulos / Semejanza](https://javutreras.github.io/2022-S1-G1/Clases/Clase16.html)
+[Clase 16 - Arcos y ángulos](https://javutreras.github.io/2022-S1-G1/Clases/Clase16.html)
+
+[Clase 17 - Semejanza](https://javutreras.github.io/2022-S1-G1/Clases/Clase17.html)
