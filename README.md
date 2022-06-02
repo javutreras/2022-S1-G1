@@ -35,3 +35,5 @@
 [Clase 17 - Semejanza](https://javutreras.github.io/2022-S1-G1/Clases/Clase17.html)
 
 [Clase 20 - Semejanza y teorema de Tales](https://javutreras.github.io/2022-S1-G1/Clases/Clase20.html)
+
+[Clase 21 - Área y perímetro de un círculo](https://javutreras.github.io/2022-S1-G1/Clases/Clase21.html)
