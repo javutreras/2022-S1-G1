@@ -37,3 +37,5 @@
 [Clase 20 - Semejanza y teorema de Tales](https://javutreras.github.io/2022-S1-G1/Clases/Clase20.html)
 
 [Clase 21 - Área y perímetro de un círculo](https://javutreras.github.io/2022-S1-G1/Clases/Clase21.html)
+
+[Clase 22 - Construcciones con regla y compás](https://javutreras.github.io/2022-S1-G1/Clases/Clase22.html)
