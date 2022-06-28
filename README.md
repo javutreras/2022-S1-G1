@@ -40,4 +40,4 @@
 
 [Clase 22 - Construcciones con regla y compás](https://javutreras.github.io/2022-S1-G1/Clases/Clase22.html)
 
-[Clase 23 - Construcciones: perpendiculares](https://javutreras.github.io/2022-S1-G1/Clases/Clase23.html)
+[Clase 23+ - Construcciones](https://javutreras.github.io/2022-S1-G1/Clases/Clase23.html)
